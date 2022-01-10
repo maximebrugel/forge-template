@@ -1,5 +1,5 @@
-# <h1 align="center"> Foundry Template </h1> 
-### <p align="center"> Forkable template to get you started with [Foundry](https://github.com/gakonst/foundry) (forge) </p>
+# <h1 align="center"> Forge Template </h1> 
+### <p align="center"> Forkable template to get you started with [Forge](https://github.com/gakonst/foundry/tree/master/forge) </p>
 
 ## Getting Started
 
